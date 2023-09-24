@@ -1,6 +1,6 @@
 ﻿using Azure.Messaging.ServiceBus;
 
-string connectionString = "Endpoint=sb://servicebus15039.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=gJkcqdlj4QcVBO3gSH+SX82p38hhyQqqQ+ASbGgG6Xw=";
+string connectionString = "";
 
 // name of your Service Bus topic
 string queueName = "servicebus-queue";
